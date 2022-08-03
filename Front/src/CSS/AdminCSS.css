@@ -1,0 +1,8 @@
+.input-group{margin: 10px 10px 10px 0;}
+.table{margin: 10px;width: 90%}
+.table-container{width: 95%;margin:10px}
+td:first-child,th:first-child{text-align: center}
+.table-buttons-group{ margin: 0px;}
+.create-btn{margin: 10px;}
+.create-form-btn{text-align: right;margin: 15px 0}
+.form-header{margin-bottom: 30px}
